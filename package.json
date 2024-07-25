@@ -2,6 +2,7 @@
   "name": "eoc",
   "version": "1.0.0",
   "main": "index.js",
+  "base":"/eoc/",
   "directories": {
     "doc": "docs"
   },
@@ -72,9 +73,12 @@
   "devDependencies": {
     "vuepress": "^2.0.0-rc.14"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    },
+  
   "author": "",
   "license": "ISC",
   "description": ""
