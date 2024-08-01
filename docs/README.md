@@ -21,9 +21,9 @@ tagline: A Miracle Minecraft Server
 actions:
   - text: 下载链接
     icon: circle-down
-    link: ./download/
+    link: ./faq/
     type: primary
-  - text: 游玩指南
-    link: ./guide/
+  - text: 社区
+    link: ./community.md
     type: second
 ---

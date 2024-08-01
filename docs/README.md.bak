@@ -3,7 +3,7 @@ home: true
 icon: home
 comment: true
 title: EOC-崩溃边缘
-heroImage: /1722550030711.png
+heroImage: /582124.png
 heroImageStyle:
   border-radius: 20%
   border: 5px solid rgba(255, 255, 255, 0.3)
@@ -21,7 +21,7 @@ tagline: A Miracle Minecraft Server
 actions:
   - text: 下载链接
     icon: circle-down
-    link: ./download/
+    link: ./faq/
     type: primary
   - text: 游玩指南
     link: ./guide/
