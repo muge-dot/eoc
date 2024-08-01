@@ -3,7 +3,7 @@ home: true
 icon: home
 comment: true
 title: EOC-崩溃边缘
-heroImage: /main.jpg
+heroImage: /1722550030501.png
 heroImageStyle:
   border-radius: 20%
   border: 5px solid rgba(255, 255, 255, 0.3)
