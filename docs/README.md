@@ -2,7 +2,7 @@
 home: true
 icon: home
 comment: true
-title: EOC-崩溃边缘
+title: EOC
 heroImage: /582177.png
 heroImageStyle:
   border-radius: 20%
@@ -19,11 +19,12 @@ heroFullScreen: true
 heroText: Edge Of Collapse
 tagline: 崩溃边缘
 actions:
-  - text: 下载链接
+  - text: 下载
     icon: circle-down
-    link: https://pan.baidu.com/s/153Pcb1rizPuidFq8dmb05A?pwd=btcw
+    link: ./download.md
     type: primary
   - text: 社区
     link: ./guide/community.md
     type: second
 ---
+HBM 的核科技是一款历史悠久、以核能为主题创作的科技模组。
