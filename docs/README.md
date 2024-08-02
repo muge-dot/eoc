@@ -3,7 +3,7 @@ home: true
 icon: home
 comment: true
 title: EOC-崩溃边缘
-heroImage: /582124.png
+heroImage: /582177.png
 heroImageStyle:
   border-radius: 20%
   border: 5px solid rgba(255, 255, 255, 0.3)
@@ -17,13 +17,13 @@ bgImageStyle:
   opacity: 0.5
 heroFullScreen: true
 heroText: Edge Of Collapse
-tagline: A Miracle Minecraft Server
+tagline: 崩溃边缘
 actions:
   - text: 下载链接
     icon: circle-down
     link: .
     type: primary
   - text: 社区
-    link: ./community.md
+    link: ./guide/community.md
     type: second
 ---
