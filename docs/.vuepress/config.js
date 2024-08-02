@@ -19,7 +19,7 @@ export default defineUserConfig({
       {
         text: '指南',
         prefix: '/guide/',
-        children: [],
+        children: ['install.md'],
       },
       // 字符串 - 页面文件路径
       // '/bar/README.md',
