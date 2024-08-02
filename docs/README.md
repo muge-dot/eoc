@@ -24,6 +24,6 @@ actions:
     link: https://pan.baidu.com/s/153Pcb1rizPuidFq8dmb05A?pwd=btcw
     type: primary
   - text: 社区
-    link: ./community.md
+    link: ./guide/community.md
     type: second
 ---
