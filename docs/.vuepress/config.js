@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   bundler: viteBundler(),
   theme: defaultTheme({
-    logo: '/453324.png',
+    logo: '/EdgeOfCollapse.png',
 
     navbar:[
       // NavbarLink
