@@ -23,7 +23,7 @@ actions:
     icon: circle-down
     link: ./faq/
     type: primary
-  - text: 游玩指南
-    link: ./guide/
+  - text: 社区
+    link: ./community.md
     type: second
 ---

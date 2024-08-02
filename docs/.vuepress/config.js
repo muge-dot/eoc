@@ -10,9 +10,14 @@ export default defineUserConfig({
     // 侧边栏数组
     // 所有页面会使用相同的侧边栏
     sidebar: [
-      // SidebarItem
       {
         text: '社区',
+        prefix: '/community.md',
+        link: 'community.md',
+      },
+      // SidebarItem
+      {
+        text: '常见问题',
         prefix: '/faq/',
         link: '/faq/',
         //children: [
@@ -28,7 +33,6 @@ export default defineUserConfig({
         ],
       },
       // 字符串 - 页面文件路径
-      '/community.md',
     ],
   }),
 })
