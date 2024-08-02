@@ -24,11 +24,15 @@ actions:
     link: ./download.md
     type: primary
   - text: 社区
-    link: ./guide/community.md
+    link: ./community.md
     type: second
+features:
+  - title: Stars
+    details: 群星的最后，我看见了它。它如此神秘，使我不自觉的向它靠近。
+
+  - title: Scenes
+    details: 无数画面在我眼前闪过。被污染的地球。丢失的抑制。
+
+  - title: Edge
+    details: 我看到了梦境与现实交界。
 ---
-群星的最后，我看见了它。它如此神秘，使我不自觉的向它靠近。<br>
-无数画面在我眼前闪过。<br>
-被污染的地球。<br>
-丢失的抑制。<br>
-我看到了梦境与现实交界。<br>

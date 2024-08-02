@@ -13,13 +13,13 @@ export default defineUserConfig({
       // NavbarLink
       {
         text: '常见问题',
-        link: '/faq/',
+        link: '/faq/index.md',
       },
       // NavbarGroup
       {
         text: '指南',
         prefix: '/guide/',
-        children: ['community.md'],
+        children: [],
       },
       // 字符串 - 页面文件路径
       // '/bar/README.md',
