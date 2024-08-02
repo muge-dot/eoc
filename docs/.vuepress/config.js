@@ -30,7 +30,7 @@ export default defineUserConfig({
           // 字符串 - 页面文件路径
           //'bar.md', // 解析为 `/foo/bar.md`
           //'/ray.md', // 解析为 `/ray.md`
-        ],
+        //],
       },
       // 字符串 - 页面文件路径
     ],
