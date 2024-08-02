@@ -8,16 +8,8 @@ export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme(),
   
-  sidebar:[
-  {
-    text: "常见问题",
-    link: "/faq/index.md",
-    collapsible: false,
-  },
-  {
-    text: "社区",
-    link: "/community.md",
-    collapsible: false,
-  }
-    ]
+  sidebar:{
+    text: "常见问题"
+    link: "/faq/index.md"
+    }
 })
